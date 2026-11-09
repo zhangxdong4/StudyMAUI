@@ -1,0 +1,23 @@
+# --- .NET / MAUI ---
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+
+# --- IDE ---
+.vs/
+.vscode/
+.idea/
+*.swp
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- 打包产物 ---
+*.apk
+*.aab
+*.msix
+*.ipa
+AppPackages/
